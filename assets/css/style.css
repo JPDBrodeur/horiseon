@@ -130,7 +130,7 @@ header nav ul li {
     max-width: 150px;
 }
 
-/* Footer Styles */
+/* Footer Styles*/
 
 footer {
     padding: 30px;
@@ -142,3 +142,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* semantic footer without class */
